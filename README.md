@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Ailover123/Github Banner.jpg" alt="Banner" />
+  <img src="https://github.com/Ailover123/Github-Banner.jpg" alt="Banner" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Nishal Gopal Poojary</h1>
 <h3 align="center">Aspiring AI Engineer | Android Developer | B.E. Engineering Student</h3>
 
