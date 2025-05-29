@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="[https://github.com/Ailover123/Github-Banner.jpg](https://github.com/Ailover123/Ailover123/blob/19810ec42068904978a170935eaf775e6bba894b/Github%20Banner.jpg)" alt="Banner" />
+  <img src="https://github.com/Ailover123/Ailover123/blob/19810ec42068904978a170935eaf775e6bba894b/Github%20Banner.jpg?raw=true" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nishal Gopal Poojary</h1>
 <h3 align="center">Aspiring AI Engineer | Android Developer | B.E. Engineering Student</h3>
+
 
 ---
 
