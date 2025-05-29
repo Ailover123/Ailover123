@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nishal Gopal Poojary</h1>
+<h3 align="center">Aspiring AI Engineer | Android Developer | B.E. Engineering Student</h3>
 
-<!--
-**Ailover123/Ailover123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing a **Bachelor of Engineering**.
+- 🤖 Aspiring to become an **AI Engineer**.
+- 📱 Passionate about **Android Development**; I enjoy creating intuitive and user-friendly apps.
+- 💡 Enthusiastic about solving problems and learning new technologies.
+
+---
+
+🛠️ **Tech Stack**
+
+- **Languages**: Java, Python
+- **Learning**: C++
+- **Skills**: Basic Data Structures and Algorithms, Problem Solving
+
+---
+
+📈 **GitHub Stats**
+
+![Nishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ailover123&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailover123&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ailover123&theme=radical)
+
+---
+
+📫 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/nishalpoojary)
+- [Email](nishalpoojary23@gmail.com) 
+
+---
+
+📌 **Note**
+
+I'm currently working on projects that are not yet public. Stay tuned for upcoming repositories showcasing my work in AI and Android development!
+
+---
+
